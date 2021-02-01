@@ -1,0 +1,1 @@
+hello {{$datas['contact_name']}}
